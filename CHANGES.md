@@ -2,5 +2,5 @@
 > Dez 02, 2019
 
 - First
-
+Implementado o método de Pagamento com Cartão de Crédito
 
