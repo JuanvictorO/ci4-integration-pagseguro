@@ -17,7 +17,7 @@
 
         <div class="card-body">
             <div class="text-center ">
-                <h5 class="card-title">Listagens de transações</h5>
+                <h5 class="card-title">Listagens de Transações</h5>
                 <p class="card-text mb-3">Esta funcionalidade está em modo <?= env('api.mode') ?>.</p>
             </div>
             <table class="mx-auto col-9 table">
